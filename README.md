@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## ЛР 11. Сеть и Paging
 
@@ -13,3 +14,6 @@
 
 ![Paging(video)](screenshots/LR_11_part_2.mp4)
 ![Paging(photo)](screenshots/paging_photo.png)
+=======
+# paging-lab-11
+>>>>>>> 5a704ebaee9b46be48aa2cf411824e647f294d6c
