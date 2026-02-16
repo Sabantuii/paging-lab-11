@@ -11,8 +11,9 @@
 ## Часть 2: Paging 3 (пагинация) 
 # Доработанная версия из части 1.
 # Теперь посты буду прогружаться при прокрутке
-
+Видео => 
 ![Paging(video)](screenshots/LR_11_part_2.mp4)
+Фото => 
 ![Paging(photo)](screenshots/paging_photo.png)
 =======
 # paging-lab-11
